@@ -1,4 +1,4 @@
-#envoy-pvouput
+# envoy-pvoutput
 
 Reads data from the Envoy S usage consumption meter using the (undocumented) production.json interface and posts this to PVOutput.org.
 
